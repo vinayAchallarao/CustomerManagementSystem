@@ -26,7 +26,7 @@ import com.demo.in.service.CustomerService;
 public class CustomerController {
 
 	private CustomerService customerService;
-
+//hello
 	@Autowired
 	public void setCustomerService(CustomerService customerService) {
 		this.customerService = customerService;
